@@ -1,0 +1,1193 @@
+<?xml version="1.0" encoding="UTF-8"?><course>
+  <id>4fb3a8f6-1d66-4d61-8a52-dd6af656abaa</id>
+  <title>Engrammer (US) Lessons - 2</title>
+  <description>Visit ktgen on Github (https://github.com/BarbieCue/ktgen)</description>
+  <keyboardLayout>us(engrammer)</keyboardLayout>
+  <lessons>
+    <lesson>
+      <id>e1ac10fe-9cfc-4034-a424-8cd2a67a90a3</id>
+      <title>1: ,.</title>
+      <newCharacters>,.</newCharacters>
+      <text>,,, ... ,,, ... ,,, ... ,,, ... ,,, ... ,,, ... ,,,
+... ,. ,. ,. ,. ,. ,. ,. ,. ,. ,. ,. ,. ,. ,. ,. ,.
+,. ,. ,. ,. ,. ,,., .... ..,, ..,. .,,. ..., ,,,.
+.,,, ,.,. ,.,, ,. , . , . , . , . , . , . , . , .
+, . , . , . , . , . , . , . , . , . , . , . , . ,
+. ,., .,. ,., .,. ,., .,. ,., .,. ,., .,. ,., .,.
+,., .,. ,,,. .,., ,.,, .,., .,.. .,,. ,.., .,., ...,
+.,., ., ,,, ... ,,, ... ,,, ... ,,, ... ,,, ... ,,,
+... ,,, ... ,,, ...</text>
+    </lesson>
+    <lesson>
+      <id>298b840b-5a14-4365-9730-eab076384703</id>
+      <title>2: ';</title>
+      <newCharacters>';</newCharacters>
+      <text>''' ;;; ''' ;;; ''' ;;; ''' ;;; ''' ;;; ''' ;;; '''
+;;; '; '; '; '; '; '; '; '; '; '; '; '; '; '; '; ';
+'; '; '; '; '; ;;;' ';'; ;''' ;';' ;;;' '''' ;';;
+;;;' ;;'' '';' '; ' ; ' ; ' ; ' ; ' ; ' ; ' ; ' ;
+' ; ' ; ' ; ' ; ' ; ' ; ' ; ' ; ' ; ' ; ' ; ' ; '
+; ';' ;'; ';' ;'; ';' ;'; ';' ;'; ';' ;'; ';' ;';
+';' ;'; ;''' ;;;; '''; ;''; ;;'' ';;' '';' ';;' ;;;;
+';;' '' ''' ;;; ''' ;;; ''' ;;; ''' ;;; ''' ;;; '''
+;;; ''' ;;; ''' ;;;</text>
+    </lesson>
+    <lesson>
+      <id>340718bb-ef02-4565-95df-03a9e895bfe7</id>
+      <title>3: -/</title>
+      <newCharacters>-/</newCharacters>
+      <text>--- /// --- /// --- /// --- /// --- /// --- /// ---
+/// -/ -/ -/ -/ -/ -/ -/ -/ -/ -/ -/ -/ -/ -/ -/ -/
+-/ -/ -/ -/ -/ /--- //-- -/-- --/- //-/ //-/ ////
+/--- ---/ -//- // - / - / - / - / - / - / - / - /
+- / - / - / - / - / - / - / - / - / - / - / - / -
+/ -/- /-/ -/- /-/ -/- /-/ -/- /-/ -/- /-/ -/- /-/
+-/- /-/ //-- -//- -/-/ /--/ /--- -/-- //// /-/- ///-
+--/- /- --- /// --- /// --- /// --- /// --- /// ---
+/// --- /// --- ///</text>
+    </lesson>
+    <lesson>
+      <id>9a00fb2e-1084-4be2-a64a-38ffa3944295</id>
+      <title>4: Summary ,.';-/</title>
+      <newCharacters/>
+      <text>,.'; -/,. ';-/ ,.'; -/,. ';-/ ,.'; -/,. ';-/ ,.';
+-/ /- ;, ;. '; -/ ;- ;, .- .; -- '. /' '/ ;' /. ,.
+/- ,, ,' /, .' -'.; ,;/' '.;/ ;;./ /.', ,'-- .'';
+/-;, -/-. ,/,- ,. ,.'; -/,. ';-/ ,.'; -/,. ';-/ ,.';
+-/,. ';-/ ,.'; -/ /- ;, ;. '; -/ ;- ;, .- .; -- '.
+/' '/ ;' /. ,. /- ,, ,' /, .' -'.; ,;/' '.;/ ;;./
+/.', ,'-- .''; /-;, -/-. ,/,- ,. ,.'; -/,. ';-/ ,.';
+-/,. ';-/ ,.'; -/,. ';-/ ,.'; -/ /- ;, ;.</text>
+    </lesson>
+    <lesson>
+      <id>942567fe-3e7c-4e6b-a262-5acfa3d17588</id>
+      <title>5: 10</title>
+      <newCharacters>10</newCharacters>
+      <text>111 000 111 000 111 000 111 000 111 000 111 000 111
+000 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10
+10 10 10 10 10 0000 1100 1010 0011 0011 0001 0101
+1101 1110 0110 11 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1
+0 101 010 101 010 101 010 101 010 101 010 101 010
+101 010 0100 1110 1001 1010 1111 0000 1010 1111 1000
+1010 00 111 000 111 000 111 000 111 000 111 000 111
+000 111 000 111 000</text>
+    </lesson>
+    <lesson>
+      <id>33c1cb83-a87a-487b-8ec7-a4f9d173ac36</id>
+      <title>6: `[</title>
+      <newCharacters>`[</newCharacters>
+      <text>``` [[[ ``` [[[ ``` [[[ ``` [[[ ``` [[[ ``` [[[ ```
+[[[ `[ `[ `[ `[ `[ `[ `[ `[ `[ `[ `[ `[ `[ `[ `[ `[
+`[ `[ `[ `[ `[ `[`[ [`[` [``[ [[[` ``[[ [`[` ``[`
+[`[` `[[[ `[`` [` ` [ ` [ ` [ ` [ ` [ ` [ ` [ ` [
+` [ ` [ ` [ ` [ ` [ ` [ ` [ ` [ ` [ ` [ ` [ ` [ `
+[ `[` [`[ `[` [`[ `[` [`[ `[` [`[ `[` [`[ `[` [`[
+`[` [`[ ``[` [``` `[[[ [[`[ `[[[ ``[[ [``` `[[[ `[[`
+`[[` `` ``` [[[ ``` [[[ ``` [[[ ``` [[[ ``` [[[ ```
+[[[ ``` [[[ ``` [[[</text>
+    </lesson>
+    <lesson>
+      <id>5222cc2a-82fc-4059-b0bb-51f7d9a92000</id>
+      <title>7: 29</title>
+      <newCharacters>29</newCharacters>
+      <text>222 999 222 999 222 999 222 999 222 999 222 999 222
+999 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29
+29 29 29 29 29 9922 2292 9229 9229 9222 9999 9929
+9222 2292 9992 29 2 9 2 9 2 9 2 9 2 9 2 9 2 9 2 9
+2 9 2 9 2 9 2 9 2 9 2 9 2 9 2 9 2 9 2 9 2 9 2 9 2
+9 292 929 292 929 292 929 292 929 292 929 292 929
+292 929 2222 9929 9299 9292 9929 9222 9299 9922 9922
+9229 22 222 999 222 999 222 999 222 999 222 999 222
+999 222 999 222 999</text>
+    </lesson>
+    <lesson>
+      <id>35da4e90-b427-4ce9-a4d3-f2c3d93b0b65</id>
+      <title>8: Summary 10`[29</title>
+      <newCharacters/>
+      <text>10`[ 2910 `[29 10`[ 2910 `[29 10`[ 2910 `[29 10`[
+29 02 02 99 [0 [[ 12 [` `[ 19 `9 91 2` 11 91 [2 02
+9` `1 0[ 00 2` 0`19 2`92 0[`2 1991 2011 9[12 109`
+`[`[ [[2[ 0902 0` 10`[ 2910 `[29 10`[ 2910 `[29 10`[
+2910 `[29 10`[ 29 02 02 99 [0 [[ 12 [` `[ 19 `9 91
+2` 11 91 [2 02 9` `1 0[ 00 2` 0`19 2`92 0[`2 1991
+2011 9[12 109` `[`[ [[2[ 0902 0` 10`[ 2910 `[29 10`[
+2910 `[29 10`[ 2910 `[29 10`[ 29 02 02 99</text>
+    </lesson>
+    <lesson>
+      <id>5a9a9d74-86b3-4d52-b827-c6a3524beea9</id>
+      <title>9: 38</title>
+      <newCharacters>38</newCharacters>
+      <text>333 888 333 888 333 888 333 888 333 888 333 888 333
+888 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38
+38 38 38 38 38 3833 3833 3338 8388 3383 8838 8883
+3883 8833 8388 83 3 8 3 8 3 8 3 8 3 8 3 8 3 8 3 8
+3 8 3 8 3 8 3 8 3 8 3 8 3 8 3 8 3 8 3 8 3 8 3 8 3
+8 383 838 383 838 383 838 383 838 383 838 383 838
+383 838 8883 3333 3838 8383 8833 3883 8333 3883 8888
+8833 83 333 888 333 888 333 888 333 888 333 888 333
+888 333 888 333 888</text>
+    </lesson>
+    <lesson>
+      <id>2092e021-16b8-409f-bb90-5d9b54792f80</id>
+      <title>10: 47</title>
+      <newCharacters>47</newCharacters>
+      <text>444 777 444 777 444 777 444 777 444 777 444 777 444
+777 47 47 47 47 47 47 47 47 47 47 47 47 47 47 47 47
+47 47 47 47 47 7747 7774 7774 7444 7447 4474 4774
+7444 7474 4747 74 4 7 4 7 4 7 4 7 4 7 4 7 4 7 4 7
+4 7 4 7 4 7 4 7 4 7 4 7 4 7 4 7 4 7 4 7 4 7 4 7 4
+7 474 747 474 747 474 747 474 747 474 747 474 747
+474 747 7744 4477 4747 4774 4444 7774 4774 7447 7744
+7474 77 444 777 444 777 444 777 444 777 444 777 444
+777 444 777 444 777</text>
+    </lesson>
+    <lesson>
+      <id>52998681-c90e-4517-8189-b17e8c117f78</id>
+      <title>11: 56</title>
+      <newCharacters>56</newCharacters>
+      <text>555 666 555 666 555 666 555 666 555 666 555 666 555
+666 56 56 56 56 56 56 56 56 56 56 56 56 56 56 56 56
+56 56 56 56 56 6655 6566 5655 5565 6565 6565 5665
+6555 5656 6666 65 5 6 5 6 5 6 5 6 5 6 5 6 5 6 5 6
+5 6 5 6 5 6 5 6 5 6 5 6 5 6 5 6 5 6 5 6 5 6 5 6 5
+6 565 656 565 656 565 656 565 656 565 656 565 656
+565 656 5556 5565 5656 6666 5565 6656 5655 5665 5656
+6655 66 555 666 555 666 555 666 555 666 555 666 555
+666 555 666 555 666</text>
+    </lesson>
+    <lesson>
+      <id>f5251555-636e-44f5-93a1-7c8b1ed43ee6</id>
+      <title>12: Summary 384756</title>
+      <newCharacters/>
+      <text>3847 5638 4756 3847 5638 4756 3847 5638 4756 3847
+56 56 54 73 45 46 74 78 33 67 33 46 35 76 88 45 75
+87 68 58 36 48 6538 4667 8466 5347 4773 7438 5635
+5465 8757 8338 48 3847 5638 4756 3847 5638 4756 3847
+5638 4756 3847 56 56 54 73 45 46 74 78 33 67 33 46
+35 76 88 45 75 87 68 58 36 48 6538 4667 8466 5347
+4773 7438 5635 5465 8757 8338 48 3847 5638 4756 3847
+5638 4756 3847 5638 4756 3847 56 56 54 73</text>
+    </lesson>
+    <lesson>
+      <id>eff00c26-b7a3-48b3-9a10-a5ca1290bdb4</id>
+      <title>13: ]Z</title>
+      <newCharacters>]Z</newCharacters>
+      <text>]]] ZZZ ]]] ZZZ ]]] ZZZ ]]] ZZZ ]]] ZZZ ]]] ZZZ ]]]
+ZZZ ]Z ]Z ]Z ]Z ]Z ]Z ]Z ]Z ]Z ]Z ]Z ]Z ]Z ]Z ]Z ]Z
+]Z ]Z ]Z ]Z ]Z ]]ZZ Z]ZZ ZZ]] ]ZZ] ]]]Z ZZZZ ]Z]]
+Z]ZZ ]]]Z Z]Z] ]] ] Z ] Z ] Z ] Z ] Z ] Z ] Z ] Z
+] Z ] Z ] Z ] Z ] Z ] Z ] Z ] Z ] Z ] Z ] Z ] Z ]
+Z ]Z] Z]Z ]Z] Z]Z ]Z] Z]Z ]Z] Z]Z ]Z] Z]Z ]Z] Z]Z
+]Z] Z]Z ]Z]Z ]Z]] ]Z]Z ]]Z] ]]ZZ ]Z]] ]]]Z ZZZZ Z]]Z
+ZZZ] ZZ ]]] ZZZ ]]] ZZZ ]]] ZZZ ]]] ZZZ ]]] ZZZ ]]]
+ZZZ ]]] ZZZ ]]] ZZZ</text>
+    </lesson>
+    <lesson>
+      <id>28ce2597-ea53-4fc5-9dfe-5581d26d0170</id>
+      <title>14: =\</title>
+      <newCharacters>=\</newCharacters>
+      <text>=== \\\ === \\\ === \\\ === \\\ === \\\ === \\\ ===
+\\\ =\ =\ =\ =\ =\ =\ =\ =\ =\ =\ =\ =\ =\ =\ =\ =\
+=\ =\ =\ =\ =\ ==== \\\\ ==\\ ==\\ ==== =\=\ =\\\
+\==\ \=\\ ==\\ \= = \ = \ = \ = \ = \ = \ = \ = \
+= \ = \ = \ = \ = \ = \ = \ = \ = \ = \ = \ = \ =
+\ =\= \=\ =\= \=\ =\= \=\ =\= \=\ =\= \=\ =\= \=\
+=\= \=\ \\\= =\\\ =\\\ ==\\ ==== ==\\ ==\= =\== \\==
+\\=\ =\ === \\\ === \\\ === \\\ === \\\ === \\\ ===
+\\\ === \\\ === \\\</text>
+    </lesson>
+    <lesson>
+      <id>11c4ee15-1555-43fc-94ae-0c383375d422</id>
+      <title>15: AH</title>
+      <newCharacters>AH</newCharacters>
+      <text>AAA HHH AAA HHH AAA HHH AAA HHH AAA HHH AAA HHH AAA
+HHH AH AH AH AH AH AH AH AH AH AH AH AH AH AH AH AH
+AH AH AH AH AH HAAH AAHA AHHH AHHH HHHH AAHA HHHA
+AAAA AHHA AAHA AH A H A H A H A H A H A H A H A H
+A H A H A H A H A H A H A H A H A H A H A H A H A
+H AHA HAH AHA HAH AHA HAH AHA HAH AHA HAH AHA HAH
+AHA HAH HHHA AAHH AAHH AAHH AHHH HHHA HAAA AAHA AAAH
+AHAH HA AAA HHH AAA HHH AAA HHH AAA HHH AAA HHH AAA
+HHH AAA HHH AAA HHH</text>
+    </lesson>
+    <lesson>
+      <id>a595d43b-c55c-4d5c-a0d8-df127e6ad031</id>
+      <title>16: Summary ]Z=\AH</title>
+      <newCharacters/>
+      <text>]Z=\ AH]Z =\AH ]Z=\ AH]Z =\AH ]Z=\ AH]Z =\AH ]Z=\
+AH AZ \= AZ ]H ZA ]= \A =H Z] A\ =H \= AA \] HZ ZZ
+]] H= =\ ]H H\ \Z\= ]\Z\ ZZ== AAH] =]\A HAAZ =]Z\
+=]]H HHAZ HA=\ H] ]Z=\ AH]Z =\AH ]Z=\ AH]Z =\AH ]Z=\
+AH]Z =\AH ]Z=\ AH AZ \= AZ ]H ZA ]= \A =H Z] A\ =H
+\= AA \] HZ ZZ ]] H= =\ ]H H\ \Z\= ]\Z\ ZZ== AAH]
+=]\A HAAZ =]Z\ =]]H HHAZ HA=\ H] ]Z=\ AH]Z =\AH ]Z=\
+AH]Z =\AH ]Z=\ AH]Z =\AH ]Z=\ AH AZ \= AZ</text>
+    </lesson>
+    <lesson>
+      <id>18014aa4-8249-4045-8104-0b19803f9216</id>
+      <title>17: ET</title>
+      <newCharacters>ET</newCharacters>
+      <text>EEE TTT EEE TTT EEE TTT EEE TTT EEE TTT EEE TTT EEE
+TTT ET ET ET ET ET ET ET ET ET ET ET ET ET ET ET ET
+ET ET ET ET ET TTEE TTTE EETT TETT EETT TEET TETE
+EEEE EEET TTTT EE E T E T E T E T E T E T E T E T
+E T E T E T E T E T E T E T E T E T E T E T E T E
+T ETE TET ETE TET ETE TET ETE TET ETE TET ETE TET
+ETE TET TEET ETTE TTEE ETEE TTET ETTT EETE TETE EETE
+TTET TE EEE TTT EEE TTT EEE TTT EEE TTT EEE TTT EEE
+TTT EEE TTT EEE TTT</text>
+    </lesson>
+    <lesson>
+      <id>cef92e57-df7f-446e-ab3b-bb025f89090b</id>
+      <title>18: IS</title>
+      <newCharacters>IS</newCharacters>
+      <text>III SSS III SSS III SSS III SSS III SSS III SSS III
+SSS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS
+IS IS IS IS IS IISS IISS IIIS SIII IISS SISS ISII
+ISSS SIII SISS SS I S I S I S I S I S I S I S I S
+I S I S I S I S I S I S I S I S I S I S I S I S I
+S ISI SIS ISI SIS ISI SIS ISI SIS ISI SIS ISI SIS
+ISI SIS IIII SISS ISSI IISS ISSI SSIS IISI SIII ISSS
+SSII SS III SSS III SSS III SSS III SSS III SSS III
+SSS III SSS III SSS</text>
+    </lesson>
+    <lesson>
+      <id>166a9cee-1093-4aa5-97dc-e14b2c3e9c0a</id>
+      <title>19: CN</title>
+      <newCharacters>CN</newCharacters>
+      <text>CCC NNN CCC NNN CCC NNN CCC NNN CCC NNN CCC NNN CCC
+NNN CN CN CN CN CN CN CN CN CN CN CN CN CN CN CN CN
+CN CN CN CN CN NNNN CCNN NCNC CNCN NNCN CCCN NCCN
+CCNN CCCC CNCN CN C N C N C N C N C N C N C N C N
+C N C N C N C N C N C N C N C N C N C N C N C N C
+N CNC NCN CNC NCN CNC NCN CNC NCN CNC NCN CNC NCN
+CNC NCN CNCN NNNC NNCN NCCN CNCN CCNN CCNN CCCC NNCC
+CNNC NC CCC NNN CCC NNN CCC NNN CCC NNN CCC NNN CCC
+NNN CCC NNN CCC NNN</text>
+    </lesson>
+    <lesson>
+      <id>5478e77c-749c-4de6-9515-6935c09680ed</id>
+      <title>20: Summary ETISCN</title>
+      <newCharacters/>
+      <text>ETIS CNET ISCN ETIS CNET ISCN ETIS CNET ISCN ETIS
+CN SE CE CN SI TE IC ST TT TS IC SE IT NS TN CN IN
+IE NS EN CC IE NENI EISS ICSN ESSS NCII TTIT NICC
+EEEC STNE TTTC NC ETIS CNET ISCN ETIS CNET ISCN ETIS
+CNET ISCN ETIS CN SE CE CN SI TE IC ST TT TS IC SE
+IT NS TN CN IN IE NS EN CC IE NENI EISS ICSN ESSS
+NCII TTIT NICC EEEC STNE TTTC NC ETIS CNET ISCN ETIS
+CNET ISCN ETIS CNET ISCN ETIS CN SE CE CN</text>
+    </lesson>
+    <lesson>
+      <id>3b6c8ea4-315d-4004-937d-7b82e3511ca3</id>
+      <title>21: &lt;&gt;</title>
+      <newCharacters>&lt;&gt;</newCharacters>
+      <text>&lt;&lt;&lt; &gt;&gt;&gt; &lt;&lt;&lt; &gt;&gt;&gt; &lt;&lt;&lt; &gt;&gt;&gt; &lt;&lt;&lt; &gt;&gt;&gt; &lt;&lt;&lt; &gt;&gt;&gt; &lt;&lt;&lt; &gt;&gt;&gt; &lt;&lt;&lt;
+&gt;&gt;&gt; &lt;&gt; &lt;&gt; &lt;&gt; &lt;&gt; &lt;&gt; &lt;&gt; &lt;&gt; &lt;&gt; &lt;&gt; &lt;&gt; &lt;&gt; &lt;&gt; &lt;&gt; &lt;&gt; &lt;&gt; &lt;&gt;
+&lt;&gt; &lt;&gt; &lt;&gt; &lt;&gt; &lt;&gt; &gt;&gt;&lt;&lt; &lt;&lt;&gt;&gt; &lt;&lt;&gt;&lt; &lt;&lt;&lt;&lt; &lt;&gt;&lt;&gt; &lt;&gt;&lt;&gt; &lt;&lt;&gt;&gt;
+&gt;&gt;&gt;&gt; &lt;&gt;&lt;&gt; &gt;&gt;&lt;&gt; &lt;&gt; &lt; &gt; &lt; &gt; &lt; &gt; &lt; &gt; &lt; &gt; &lt; &gt; &lt; &gt; &lt; &gt;
+&lt; &gt; &lt; &gt; &lt; &gt; &lt; &gt; &lt; &gt; &lt; &gt; &lt; &gt; &lt; &gt; &lt; &gt; &lt; &gt; &lt; &gt; &lt; &gt; &lt;
+&gt; &lt;&gt;&lt; &gt;&lt;&gt; &lt;&gt;&lt; &gt;&lt;&gt; &lt;&gt;&lt; &gt;&lt;&gt; &lt;&gt;&lt; &gt;&lt;&gt; &lt;&gt;&lt; &gt;&lt;&gt; &lt;&gt;&lt; &gt;&lt;&gt;
+&lt;&gt;&lt; &gt;&lt;&gt; &lt;&lt;&lt;&lt; &lt;&lt;&gt;&lt; &lt;&gt;&lt;&gt; &lt;&lt;&gt;&gt; &lt;&gt;&gt;&lt; &gt;&gt;&lt;&gt; &gt;&gt;&gt;&gt; &gt;&gt;&gt;&gt; &gt;&lt;&lt;&lt;
+&gt;&lt;&lt;&lt; &gt;&lt; &lt;&lt;&lt; &gt;&gt;&gt; &lt;&lt;&lt; &gt;&gt;&gt; &lt;&lt;&lt; &gt;&gt;&gt; &lt;&lt;&lt; &gt;&gt;&gt; &lt;&lt;&lt; &gt;&gt;&gt; &lt;&lt;&lt;
+&gt;&gt;&gt; &lt;&lt;&lt; &gt;&gt;&gt; &lt;&lt;&lt; &gt;&gt;&gt;</text>
+    </lesson>
+    <lesson>
+      <id>713cc541-18f7-4533-a18a-762f8942bcd0</id>
+      <title>22: ":</title>
+      <newCharacters>":</newCharacters>
+      <text>""" ::: """ ::: """ ::: """ ::: """ ::: """ ::: """
+::: ": ": ": ": ": ": ": ": ": ": ": ": ": ": ": ":
+": ": ": ": ": :::: :""" :::" "":" ":": """" ::":
+:::" ":": """" :: " : " : " : " : " : " : " : " :
+" : " : " : " : " : " : " : " : " : " : " : " : "
+: ":" :": ":" :": ":" :": ":" :": ":" :": ":" :":
+":" :": :":" "::" "::: :":" :::" ::": "":" ::": """"
+"""" :: """ ::: """ ::: """ ::: """ ::: """ ::: """
+::: """ ::: """ :::</text>
+    </lesson>
+    <lesson>
+      <id>fe333c9a-f943-47b5-84ed-e0ba823362d3</id>
+      <title>23: KR</title>
+      <newCharacters>KR</newCharacters>
+      <text>KKK RRR KKK RRR KKK RRR KKK RRR KKK RRR KKK RRR KKK
+RRR KR KR KR KR KR KR KR KR KR KR KR KR KR KR KR KR
+KR KR KR KR KR KRRR RRRK RRRK RKKK RKRK KKRK KRRR
+KKKR RKRK KRKK KR K R K R K R K R K R K R K R K R
+K R K R K R K R K R K R K R K R K R K R K R K R K
+R KRK RKR KRK RKR KRK RKR KRK RKR KRK RKR KRK RKR
+KRK RKR KRKK KRRR RRKR RRRR KKKK RKRK RKRR KRKR KKKK
+RRKK KR KKK RRR KKK RRR KKK RRR KKK RRR KKK RRR KKK
+RRR KKK RRR KKK RRR</text>
+    </lesson>
+    <lesson>
+      <id>81a502f9-e9fd-475d-9163-4b7c3944ed34</id>
+      <title>24: Summary &lt;&gt;":KR</title>
+      <newCharacters/>
+      <text>&lt;&gt;": KR&lt;&gt; ":KR &lt;&gt;": KR&lt;&gt; ":KR &lt;&gt;": KR&lt;&gt; ":KR &lt;&gt;":
+KR &gt;" KR :&gt; R" RR ": &lt;&lt; &gt;&lt; &gt;&gt; :&lt; "&lt; K&gt; &lt;: R" :K &lt;"
+K: K: K" KR &gt;R RK&gt;" "KKR :K&gt;&gt; "RR: &lt;&lt;:&gt; &lt;:R&lt; &gt;KR&lt;
+R":" &lt;&lt;&gt;: :"&gt;" KK &lt;&gt;": KR&lt;&gt; ":KR &lt;&gt;": KR&lt;&gt; ":KR &lt;&gt;":
+KR&lt;&gt; ":KR &lt;&gt;": KR &gt;" KR :&gt; R" RR ": &lt;&lt; &gt;&lt; &gt;&gt; :&lt; "&lt;
+K&gt; &lt;: R" :K &lt;" K: K: K" KR &gt;R RK&gt;" "KKR :K&gt;&gt; "RR:
+&lt;&lt;:&gt; &lt;:R&lt; &gt;KR&lt; R":" &lt;&lt;&gt;: :"&gt;" KK &lt;&gt;": KR&lt;&gt; ":KR &lt;&gt;":
+KR&lt;&gt; ":KR &lt;&gt;": KR&lt;&gt; ":KR &lt;&gt;": KR &gt;" KR :&gt;</text>
+    </lesson>
+    <lesson>
+      <id>b062e051-e7b4-4c2f-bed5-f692b5d13181</id>
+      <title>25: _?</title>
+      <newCharacters>_?</newCharacters>
+      <text>___ ??? ___ ??? ___ ??? ___ ??? ___ ??? ___ ??? ___
+??? _? _? _? _? _? _? _? _? _? _? _? _? _? _? _? _?
+_? _? _? _? _? ?___ __?_ ???? ?_?? _?__ __?? _???
+?__? __?? ?_?_ __ _ ? _ ? _ ? _ ? _ ? _ ? _ ? _ ?
+_ ? _ ? _ ? _ ? _ ? _ ? _ ? _ ? _ ? _ ? _ ? _ ? _
+? _?_ ?_? _?_ ?_? _?_ ?_? _?_ ?_? _?_ ?_? _?_ ?_?
+_?_ ?_? ???_ _?__ _?__ _??_ ??_? _??? __?? _?__ _??_
+?___ ?? ___ ??? ___ ??? ___ ??? ___ ??? ___ ??? ___
+??? ___ ??? ___ ???</text>
+    </lesson>
+    <lesson>
+      <id>5cc2d5d4-9048-4c03-95fd-0b5f3d39542d</id>
+      <title>26: UL</title>
+      <newCharacters>UL</newCharacters>
+      <text>UUU LLL UUU LLL UUU LLL UUU LLL UUU LLL UUU LLL UUU
+LLL UL UL UL UL UL UL UL UL UL UL UL UL UL UL UL UL
+UL UL UL UL UL UULU ULLU ULLL LLLL ULLU UUUU ULLL
+UULU LULL UUUU LL U L U L U L U L U L U L U L U L
+U L U L U L U L U L U L U L U L U L U L U L U L U
+L ULU LUL ULU LUL ULU LUL ULU LUL ULU LUL ULU LUL
+ULU LUL UUUL ULLU LLLU LULL LLUL UUUU LUUL LUUL UULL
+LLUU LU UUU LLL UUU LLL UUU LLL UUU LLL UUU LLL UUU
+LLL UUU LLL UUU LLL</text>
+    </lesson>
+    <lesson>
+      <id>bd538aa4-80b7-42de-91b3-32c083d37ce6</id>
+      <title>27: OD</title>
+      <newCharacters>OD</newCharacters>
+      <text>OOO DDD OOO DDD OOO DDD OOO DDD OOO DDD OOO DDD OOO
+DDD OD OD OD OD OD OD OD OD OD OD OD OD OD OD OD OD
+OD OD OD OD OD ODOO DODD ODDO OOOO ODOD DOOD OOOD
+DDDD DOOO DDDO DD O D O D O D O D O D O D O D O D
+O D O D O D O D O D O D O D O D O D O D O D O D O
+D ODO DOD ODO DOD ODO DOD ODO DOD ODO DOD ODO DOD
+ODO DOD DODO DDOO DDOD OODO DDOD DDDO DDOO OOOD OOOD
+ODDD OO OOO DDD OOO DDD OOO DDD OOO DDD OOO DDD OOO
+DDD OOO DDD OOO DDD</text>
+    </lesson>
+    <lesson>
+      <id>8a6a861c-9ce1-474d-9b4a-741d2cf18fda</id>
+      <title>28: Summary _?ULOD</title>
+      <newCharacters/>
+      <text>_?UL OD_? ULOD _?UL OD_? ULOD _?UL OD_? ULOD _?UL
+OD U? _D _O O? UD UD OO ?O ?L _? _D DD O_ UD LL ?U
+UL _? L_ UO LL UOOD __?L L?LD _L?O U_UL D??O DD_O
+DLLU ?O?_ DUOU _U _?UL OD_? ULOD _?UL OD_? ULOD _?UL
+OD_? ULOD _?UL OD U? _D _O O? UD UD OO ?O ?L _? _D
+DD O_ UD LL ?U UL _? L_ UO LL UOOD __?L L?LD _L?O
+U_UL D??O DD_O DLLU ?O?_ DUOU _U _?UL OD_? ULOD _?UL
+OD_? ULOD _?UL OD_? ULOD _?UL OD U? _D _O</text>
+    </lesson>
+    <lesson>
+      <id>c4bbb589-e799-4c81-a317-356f5b5fcaf9</id>
+      <title>29: JM</title>
+      <newCharacters>JM</newCharacters>
+      <text>JJJ MMM JJJ MMM JJJ MMM JJJ MMM JJJ MMM JJJ MMM JJJ
+MMM JM JM JM JM JM JM JM JM JM JM JM JM JM JM JM JM
+JM JM JM JM JM MMJM MJMJ MMJJ MMJM JMJJ JJMJ JMMJ
+JJMM MMMJ JJMJ JM J M J M J M J M J M J M J M J M
+J M J M J M J M J M J M J M J M J M J M J M J M J
+M JMJ MJM JMJ MJM JMJ MJM JMJ MJM JMJ MJM JMJ MJM
+JMJ MJM JJMM JJJM JJMJ JMMJ MMMM MJMJ JMJM MJJM MJJM
+JMMM JJ JJJ MMM JJJ MMM JJJ MMM JJJ MMM JJJ MMM JJJ
+MMM JJJ MMM JJJ MMM</text>
+    </lesson>
+    <lesson>
+      <id>7857f5e5-d88a-4b15-9556-d30644556520</id>
+      <title>30: YW</title>
+      <newCharacters>YW</newCharacters>
+      <text>YYY WWW YYY WWW YYY WWW YYY WWW YYY WWW YYY WWW YYY
+WWW YW YW YW YW YW YW YW YW YW YW YW YW YW YW YW YW
+YW YW YW YW YW WWWY YYWY WWYY WWYW WWWY YYYW YYWW
+YWYY YWYW WYWW YY Y W Y W Y W Y W Y W Y W Y W Y W
+Y W Y W Y W Y W Y W Y W Y W Y W Y W Y W Y W Y W Y
+W YWY WYW YWY WYW YWY WYW YWY WYW YWY WYW YWY WYW
+YWY WYW WYWW YWYW YWYY YYYW WWWY YYWW WYWY YWWW WYYW
+YYYW YW YYY WWW YYY WWW YYY WWW YYY WWW YYY WWW YYY
+WWW YYY WWW YYY WWW</text>
+    </lesson>
+    <lesson>
+      <id>a162e84b-98b4-4408-810a-ded8bb26922a</id>
+      <title>31: XF</title>
+      <newCharacters>XF</newCharacters>
+      <text>XXX FFF XXX FFF XXX FFF XXX FFF XXX FFF XXX FFF XXX
+FFF XF XF XF XF XF XF XF XF XF XF XF XF XF XF XF XF
+XF XF XF XF XF FFFF FXXX FFXX FXXX FXXX FXXX XXFF
+FXFX FFXF FFFX FX X F X F X F X F X F X F X F X F
+X F X F X F X F X F X F X F X F X F X F X F X F X
+F XFX FXF XFX FXF XFX FXF XFX FXF XFX FXF XFX FXF
+XFX FXF FXFX XXFF FFXF XFFX XXFX XXFF XFFX FFXX XFFX
+XFXF XF XXX FFF XXX FFF XXX FFF XXX FFF XXX FFF XXX
+FFF XXX FFF XXX FFF</text>
+    </lesson>
+    <lesson>
+      <id>78f27381-71e1-4323-93f9-89504fa98e51</id>
+      <title>32: Summary JMYWXF</title>
+      <newCharacters/>
+      <text>JMYW XFJM YWXF JMYW XFJM YWXF JMYW XFJM YWXF JMYW
+XF WM FX JJ YW XJ MM WF JY JF YY FF YM FW XX YM YW
+JM XM WJ FX WX MYYX WYJX XYJW JJYX FMXY FFXM FYWW
+MJXW FMJM JWMF WF JMYW XFJM YWXF JMYW XFJM YWXF JMYW
+XFJM YWXF JMYW XF WM FX JJ YW XJ MM WF JY JF YY FF
+YM FW XX YM YW JM XM WJ FX WX MYYX WYJX XYJW JJYX
+FMXY FFXM FYWW MJXW FMJM JWMF WF JMYW XFJM YWXF JMYW
+XFJM YWXF JMYW XFJM YWXF JMYW XF WM FX JJ</text>
+    </lesson>
+    <lesson>
+      <id>f6405ee3-58c2-46c2-99fb-f388ef8828c6</id>
+      <title>33: BV</title>
+      <newCharacters>BV</newCharacters>
+      <text>BBB VVV BBB VVV BBB VVV BBB VVV BBB VVV BBB VVV BBB
+VVV BV BV BV BV BV BV BV BV BV BV BV BV BV BV BV BV
+BV BV BV BV BV BBVV BVVB VVBV BBVB BBBB VVVB VBVV
+BVBV VBVV VBBB VB B V B V B V B V B V B V B V B V
+B V B V B V B V B V B V B V B V B V B V B V B V B
+V BVB VBV BVB VBV BVB VBV BVB VBV BVB VBV BVB VBV
+BVB VBV VBBB BVVV BVBB VVVB BBVV VBBB VBBV VVVV BBVB
+BBVV VB BBB VVV BBB VVV BBB VVV BBB VVV BBB VVV BBB
+VVV BBB VVV BBB VVV</text>
+    </lesson>
+    <lesson>
+      <id>8e205080-436f-4b81-b662-2266447c3830</id>
+      <title>34: GP</title>
+      <newCharacters>GP</newCharacters>
+      <text>GGG PPP GGG PPP GGG PPP GGG PPP GGG PPP GGG PPP GGG
+PPP GP GP GP GP GP GP GP GP GP GP GP GP GP GP GP GP
+GP GP GP GP GP PGGP PGGP PGGG PPGP GGPP PGGP GPGP
+GPPP PGGP PPGG GG G P G P G P G P G P G P G P G P
+G P G P G P G P G P G P G P G P G P G P G P G P G
+P GPG PGP GPG PGP GPG PGP GPG PGP GPG PGP GPG PGP
+GPG PGP PGGP GPGP GPPP GGGG PPPP PGPG PGGG GGPP GPPG
+GGPG PP GGG PPP GGG PPP GGG PPP GGG PPP GGG PPP GGG
+PPP GGG PPP GGG PPP</text>
+    </lesson>
+    <lesson>
+      <id>128ff6a8-2715-40c0-af37-1177845b8828</id>
+      <title>35: !)</title>
+      <newCharacters>!)</newCharacters>
+      <text>!!! ))) !!! ))) !!! ))) !!! ))) !!! ))) !!! ))) !!!
+))) !) !) !) !) !) !) !) !) !) !) !) !) !) !) !) !)
+!) !) !) !) !) !)!! )!)) !))) )!)) ))!) !!!) ))!!
+!)!! !!!! !!)) )) ! ) ! ) ! ) ! ) ! ) ! ) ! ) ! )
+! ) ! ) ! ) ! ) ! ) ! ) ! ) ! ) ! ) ! ) ! ) ! ) !
+) !)! )!) !)! )!) !)! )!) !)! )!) !)! )!) !)! )!)
+!)! )!) !))) !)!! ))!! !)!) )))) !))) )!)) !!)! !)!!
+)!!! !! !!! ))) !!! ))) !!! ))) !!! ))) !!! ))) !!!
+))) !!! ))) !!! )))</text>
+    </lesson>
+    <lesson>
+      <id>380892fe-3fef-4843-bebe-80442e7cea35</id>
+      <title>36: Summary BVGP!)</title>
+      <newCharacters/>
+      <text>BVGP !)BV GP!) BVGP !)BV GP!) BVGP !)BV GP!) BVGP
+!) )! )P PP G! PV )) !V !G V! PB BG !G )B GP )! G)
+BG PB VV BV BV BPBB )V!) BV!! P)G) VBB) GG!G PVPG
+VGP) VPP! G!!V )B BVGP !)BV GP!) BVGP !)BV GP!) BVGP
+!)BV GP!) BVGP !) )! )P PP G! PV )) !V !G V! PB BG
+!G )B GP )! G) BG PB VV BV BV BPBB )V!) BV!! P)G)
+VBB) GG!G PVPG VGP) VPP! G!!V )B BVGP !)BV GP!) BVGP
+!)BV GP!) BVGP !)BV GP!) BVGP !) )! )P PP</text>
+    </lesson>
+    <lesson>
+      <id>74c23eca-741b-4e19-be36-d6c7cb765465</id>
+      <title>37: ~{</title>
+      <newCharacters>~{</newCharacters>
+      <text>~~~ {{{ ~~~ {{{ ~~~ {{{ ~~~ {{{ ~~~ {{{ ~~~ {{{ ~~~
+{{{ ~{ ~{ ~{ ~{ ~{ ~{ ~{ ~{ ~{ ~{ ~{ ~{ ~{ ~{ ~{ ~{
+~{ ~{ ~{ ~{ ~{ ~~~{ ~~~~ {~~{ {~{~ {{~~ {~{~ {~{{
+~~{{ {{~~ {~{{ {{ ~ { ~ { ~ { ~ { ~ { ~ { ~ { ~ {
+~ { ~ { ~ { ~ { ~ { ~ { ~ { ~ { ~ { ~ { ~ { ~ { ~
+{ ~{~ {~{ ~{~ {~{ ~{~ {~{ ~{~ {~{ ~{~ {~{ ~{~ {~{
+~{~ {~{ ~~{{ ~{{~ {~~~ ~{{~ {{{~ {{{~ {~{~ ~~~~ ~{{{
+{{~~ ~{ ~~~ {{{ ~~~ {{{ ~~~ {{{ ~~~ {{{ ~~~ {{{ ~~~
+{{{ ~~~ {{{ ~~~ {{{</text>
+    </lesson>
+    <lesson>
+      <id>d3a89489-f9b4-4512-814a-02c82abb3570</id>
+      <title>38: @(</title>
+      <newCharacters>@(</newCharacters>
+      <text>@@@ ((( @@@ ((( @@@ ((( @@@ ((( @@@ ((( @@@ ((( @@@
+((( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @( @(
+@( @( @( @( @( @((( (@(( @@@( (@(@ @(@@ (((@ @(@@
+@(@@ (((( @@@( (@ @ ( @ ( @ ( @ ( @ ( @ ( @ ( @ (
+@ ( @ ( @ ( @ ( @ ( @ ( @ ( @ ( @ ( @ ( @ ( @ ( @
+( @(@ (@( @(@ (@( @(@ (@( @(@ (@( @(@ (@( @(@ (@(
+@(@ (@( (@(@ @@@@ @((( (@(( @@(( ((@( @((@ @@(@ @(((
+@(@( @@ @@@ ((( @@@ ((( @@@ ((( @@@ ((( @@@ ((( @@@
+((( @@@ ((( @@@ (((</text>
+    </lesson>
+    <lesson>
+      <id>c59d06ee-b9c4-4f02-994b-b046c278d586</id>
+      <title>39: #*</title>
+      <newCharacters>#*</newCharacters>
+      <text>### *** ### *** ### *** ### *** ### *** ### *** ###
+*** #* #* #* #* #* #* #* #* #* #* #* #* #* #* #* #*
+#* #* #* #* #* *#** *#*# #### #*** ##** **#* #*##
+#*## ###* **** *# # * # * # * # * # * # * # * # *
+# * # * # * # * # * # * # * # * # * # * # * # * #
+* #*# *#* #*# *#* #*# *#* #*# *#* #*# *#* #*# *#*
+#*# *#* ###* #**# *### ##** #*** ##*# *#** #*## ***#
+**## ** ### *** ### *** ### *** ### *** ### *** ###
+*** ### *** ### ***</text>
+    </lesson>
+    <lesson>
+      <id>4e1274cd-9cf8-4ebd-b65e-79c87a49ed86</id>
+      <title>40: Summary ~{@(#*</title>
+      <newCharacters/>
+      <text>~{@( #*~{ @(#* ~{@( #*~{ @(#* ~{@( #*~{ @(#* ~{@(
+#* #( (@ {* *{ ({ @{ ~( @# ~{ @* @* ~# ## @( (* ~{
+~@ {* ~( *# ~# {~(* {**@ *#~{ #~#{ #@@( {~@~ (#(@
+{#~* (*@~ ({@# (* ~{@( #*~{ @(#* ~{@( #*~{ @(#* ~{@(
+#*~{ @(#* ~{@( #* #( (@ {* *{ ({ @{ ~( @# ~{ @* @*
+~# ## @( (* ~{ ~@ {* ~( *# ~# {~(* {**@ *#~{ #~#{
+#@@( {~@~ (#(@ {#~* (*@~ ({@# (* ~{@( #*~{ @(#* ~{@(
+#*~{ @(#* ~{@( #*~{ @(#* ~{@( #* #( (@ {*</text>
+    </lesson>
+    <lesson>
+      <id>b46f93f3-ff10-46a3-a43e-c0c40e92bd4c</id>
+      <title>41: $&amp;</title>
+      <newCharacters>$&amp;</newCharacters>
+      <text>$$$ &amp;&amp;&amp; $$$ &amp;&amp;&amp; $$$ &amp;&amp;&amp; $$$ &amp;&amp;&amp; $$$ &amp;&amp;&amp; $$$ &amp;&amp;&amp; $$$
+&amp;&amp;&amp; $&amp; $&amp; $&amp; $&amp; $&amp; $&amp; $&amp; $&amp; $&amp; $&amp; $&amp; $&amp; $&amp; $&amp; $&amp; $&amp;
+$&amp; $&amp; $&amp; $&amp; $&amp; $&amp;$$ $$$&amp; &amp;$&amp;&amp; &amp;&amp;&amp;$ &amp;&amp;&amp;&amp; &amp;&amp;&amp;$ $$$$
+&amp;$$&amp; &amp;&amp;$$ &amp;$$$ $&amp; $ &amp; $ &amp; $ &amp; $ &amp; $ &amp; $ &amp; $ &amp; $ &amp;
+$ &amp; $ &amp; $ &amp; $ &amp; $ &amp; $ &amp; $ &amp; $ &amp; $ &amp; $ &amp; $ &amp; $ &amp; $
+&amp; $&amp;$ &amp;$&amp; $&amp;$ &amp;$&amp; $&amp;$ &amp;$&amp; $&amp;$ &amp;$&amp; $&amp;$ &amp;$&amp; $&amp;$ &amp;$&amp;
+$&amp;$ &amp;$&amp; &amp;$$&amp; $&amp;$&amp; &amp;$$&amp; $&amp;&amp;&amp; &amp;&amp;$$ &amp;$$$ &amp;$$&amp; $$&amp;$ &amp;&amp;&amp;$
+$$&amp;&amp; $&amp; $$$ &amp;&amp;&amp; $$$ &amp;&amp;&amp; $$$ &amp;&amp;&amp; $$$ &amp;&amp;&amp; $$$ &amp;&amp;&amp; $$$
+&amp;&amp;&amp; $$$ &amp;&amp;&amp; $$$ &amp;&amp;&amp;</text>
+    </lesson>
+    <lesson>
+      <id>5b99556b-647e-4376-9095-bfabd9a297f5</id>
+      <title>42: %^</title>
+      <newCharacters>%^</newCharacters>
+      <text>%%% ^^^ %%% ^^^ %%% ^^^ %%% ^^^ %%% ^^^ %%% ^^^ %%%
+^^^ %^ %^ %^ %^ %^ %^ %^ %^ %^ %^ %^ %^ %^ %^ %^ %^
+%^ %^ %^ %^ %^ %^^^ %^^^ ^%^% %%%% ^^%% ^^%^ %^%%
+%^%^ %%^^ %^%^ ^% % ^ % ^ % ^ % ^ % ^ % ^ % ^ % ^
+% ^ % ^ % ^ % ^ % ^ % ^ % ^ % ^ % ^ % ^ % ^ % ^ %
+^ %^% ^%^ %^% ^%^ %^% ^%^ %^% ^%^ %^% ^%^ %^% ^%^
+%^% ^%^ %^%% ^%%^ %^%% ^^%^ ^^%% ^^^% ^%^% ^^%^ ^^%^
+%^%% %% %%% ^^^ %%% ^^^ %%% ^^^ %%% ^^^ %%% ^^^ %%%
+^^^ %%% ^^^ %%% ^^^</text>
+    </lesson>
+    <lesson>
+      <id>fabd0715-bb46-4654-9815-d712a38b09db</id>
+      <title>43: }Z</title>
+      <newCharacters>}</newCharacters>
+      <text>}}} ZZZ }}} ZZZ }}} ZZZ }}} ZZZ }}} ZZZ }}} ZZZ }}}
+ZZZ }Z }Z }Z }Z }Z }Z }Z }Z }Z }Z }Z }Z }Z }Z }Z }Z
+}Z }Z }Z }Z }Z }Z}Z Z}ZZ Z}Z} }}}Z Z}}} }}}Z ZZZ}
+}ZZZ Z}}} Z}ZZ }Z } Z } Z } Z } Z } Z } Z } Z } Z
+} Z } Z } Z } Z } Z } Z } Z } Z } Z } Z } Z } Z }
+Z }Z} Z}Z }Z} Z}Z }Z} Z}Z }Z} Z}Z }Z} Z}Z }Z} Z}Z
+}Z} Z}Z Z}}} ZZ}} ZZZZ }ZZ} }ZZ} }}Z} ZZZ} }Z}Z Z}}}
+ZZZ} }} }}} ZZZ }}} ZZZ }}} ZZZ }}} ZZZ }}} ZZZ }}}
+ZZZ }}} ZZZ }}} ZZZ</text>
+    </lesson>
+    <lesson>
+      <id>764699f9-337e-403d-aaec-ea49145f6509</id>
+      <title>44: Summary $&amp;%^}Z</title>
+      <newCharacters/>
+      <text>$&amp;%^ }Z$&amp; %^}Z $&amp;%^ }Z$&amp; %^}Z $&amp;%^ }Z$&amp; %^}Z $&amp;%^
+}Z %} &amp;^ &amp;% }} ^% Z% $$ %^ ^Z }^ %$ Z&amp; ^} Z$ Z} &amp;$
+&amp;&amp; %^ $Z &amp;} Z$ %$Z% Z%^^ Z}}} ^$$Z ^&amp;}&amp; %&amp;$$ ^%%&amp;
+}%Z&amp; ^Z&amp;} Z$}^ &amp;$ $&amp;%^ }Z$&amp; %^}Z $&amp;%^ }Z$&amp; %^}Z $&amp;%^
+}Z$&amp; %^}Z $&amp;%^ }Z %} &amp;^ &amp;% }} ^% Z% $$ %^ ^Z }^ %$
+Z&amp; ^} Z$ Z} &amp;$ &amp;&amp; %^ $Z &amp;} Z$ %$Z% Z%^^ Z}}} ^$$Z
+^&amp;}&amp; %&amp;$$ ^%%&amp; }%Z&amp; ^Z&amp;} Z$}^ &amp;$ $&amp;%^ }Z$&amp; %^}Z $&amp;%^
+}Z$&amp; %^}Z $&amp;%^ }Z$&amp; %^}Z $&amp;%^ }Z %} &amp;^ &amp;%</text>
+    </lesson>
+    <lesson>
+      <id>0efbd402-a04b-4c71-9b8e-9d425667683c</id>
+      <title>45: +|</title>
+      <newCharacters>+|</newCharacters>
+      <text>+++ ||| +++ ||| +++ ||| +++ ||| +++ ||| +++ ||| +++
+||| +| +| +| +| +| +| +| +| +| +| +| +| +| +| +| +|
++| +| +| +| +| +++| +||| ++|| |+++ ||++ +||+ +||+
++|+| |||+ |+|| ++ + | + | + | + | + | + | + | + |
++ | + | + | + | + | + | + | + | + | + | + | + | +
+| +|+ |+| +|+ |+| +|+ |+| +|+ |+| +|+ |+| +|+ |+|
++|+ |+| +|++ |+|| ||+| ++|+ |||| ++|+ |++| |+|+ ||+|
+++|+ ++ +++ ||| +++ ||| +++ ||| +++ ||| +++ ||| +++
+||| +++ ||| +++ |||</text>
+    </lesson>
+    <lesson>
+      <id>691887a3-5f25-4be7-8cf7-75ce814024ac</id>
+      <title>46: Q</title>
+      <newCharacters>Q</newCharacters>
+      <text>QQQ QQQ QQQ QQQ QQQ QQQ QQQ QQQ QQQ QQQ QQQ QQQ QQQ
+QQQ QQ QQ QQ QQ QQ QQ QQ QQ QQ QQ QQ QQ QQ QQ QQ QQ
+QQ QQ QQ QQ QQ QQQQ QQQQ QQQQ QQQQ QQQQ QQQQ QQQQ
+QQQQ QQQQ QQQQ QQ Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q
+Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q
+Q QQQ QQQ QQQ QQQ QQQ QQQ QQQ QQQ QQQ QQQ QQQ QQQ
+QQQ QQQ QQQQ QQQQ QQQQ QQQQ QQQQ QQQQ QQQQ QQQQ QQQQ
+QQQQ QQ QQQ QQQ QQQ QQQ QQQ QQQ QQQ QQQ QQQ QQQ QQQ
+QQQ QQQ QQQ QQQ QQQ</text>
+    </lesson>
+    <lesson>
+      <id>bfa568ef-adf4-4dfc-af03-e065da766eb9</id>
+      <title>47: ah</title>
+      <newCharacters>ah</newCharacters>
+      <text>aaa hhh aaa hhh aaa hhh aaa hhh aaa hhh aaa hhh aaa
+hhh ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah
+ah ah ah ah ah haaa aaha haha hhah ahaa hhha ahaa
+hhha haha aahh hh a h a h a h a h a h a h a h a h
+a h a h a h a h a h a h a h a h a h a h a h a h a
+h aha hah aha hah aha hah aha hah aha hah aha hah
+aha hah aaah haah haah ahah hhhh hhhh aaah aaha haha
+ahaa ha aaa hhh aaa hhh aaa hhh aaa hhh aaa hhh aaa
+hhh aaa hhh aaa hhh</text>
+    </lesson>
+    <lesson>
+      <id>5d1686c2-fb36-4c51-b3ea-a3a3d672488c</id>
+      <title>48: Summary +|Qah</title>
+      <newCharacters/>
+      <text>+|Qa h+|Q ah+| Qah+ |Qah +|Qa h+|Q ah+| Qah+ |Qah
++| aa+ ha+ aa+ ha+ aa+ ha+ aa+ ha+ aa+ ha+ aa+ ha+
+aa+ ha+ +aa ha+ +aa ha+ +aa ha+ +aa ha+ +aa ha+ +aa
+ha+ +aa ha+ +Q || h+ |h Qa +a hQ +a |+ |h ha Q| Qh
+ha a+ ++ |Q ha || aQ Q+ aa+ |ha aa+ |ha aa+ |ha aa+
+|ha aa+ |ha aa+ |ha aa+ |ha aa+ ha| aa+ ha| aa+ ha|
+aa+ ha| aa+ ha| aa+ ha| aa+ ha| h+Qa |hh+ hhQ| +ha+
++aQa ||+| |h+| a||Q QahQ Q+a+ Qa +|Qa h+</text>
+    </lesson>
+    <lesson>
+      <id>1b438d0d-3bff-4db6-a4d9-08cf058c526d</id>
+      <title>49: et</title>
+      <newCharacters>et</newCharacters>
+      <text>eee ttt eee ttt eee ttt eee ttt eee ttt eee ttt eee
+ttt et et et et et et et et et et et et et et et et
+et et et et et ettt tete tett eeee tttt teet teet
+eeee ttee teet et e t e t e t e t e t e t e t e t
+e t e t e t e t e t e t e t e t e t e t e t e t e
+t ete tet ete tet ete tet ete tet ete tet ete tet
+ete tet tett eeee eete teet teee ttet tete tttt eete
+eett tt eee ttt eee ttt eee ttt eee ttt eee ttt eee
+ttt eee ttt eee ttt</text>
+    </lesson>
+    <lesson>
+      <id>c127f0d1-5b01-4be8-9665-c7346bc408ff</id>
+      <title>50: is</title>
+      <newCharacters>is</newCharacters>
+      <text>iii sss iii sss iii sss iii sss iii sss iii sss iii
+sss is is is is is is is is is is is is is is is is
+is is is is is sssi ssii ssii iiis iisi iiss iiii
+ssss sisi isss is i s i s i s i s i s i s i s i s
+i s i s i s i s i s i s i s i s i s i s i s i s i
+s isi sis isi sis isi sis isi sis isi sis isi sis
+isi sis siii sssi iiis ssis siis iisi siss ssii isis
+ssii si iii sss iii sss iii sss iii sss iii sss iii
+sss iii sss iii sss</text>
+    </lesson>
+    <lesson>
+      <id>4f667134-55db-498c-ba5f-21e6b2ad8ed6</id>
+      <title>51: is</title>
+      <newCharacters/>
+      <text>ii st sat hi sea ie est iii asia hit sets hits sheet
+ii iiii ssss iiii ssss iiii ssss iiii ssss iiii ssss
+ii assets assist seat ss ia sit sheets si asset is
+this sheet tests se sa stats es assets assist seat
+ss ia s sea ie est iii asia hit sets hits sheet
+tests se sa ie ss ii ii ss ii is is ii ii si ss is
+si ss ss si is is is si si has site see his these
+its state she set states site ii st sa</text>
+    </lesson>
+    <lesson>
+      <id>c4da1538-d348-45dd-b407-f72557428f5f</id>
+      <title>52: cn</title>
+      <newCharacters>cn</newCharacters>
+      <text>ccc nnn ccc nnn ccc nnn ccc nnn ccc nnn ccc nnn ccc
+nnn cn cn cn cn cn cn cn cn cn cn cn cn cn cn cn cn
+cn cn cn cn cn cnnn nccn nccc ccnn ncnn ccnc ncnc
+ccnn cncn cnnc nc c n c n c n c n c n c n c n c n
+c n c n c n c n c n c n c n c n c n c n c n c n c
+n cnc ncn cnc ncn cnc ncn cnc ncn cnc ncn cnc ncn
+cnc ncn nccc cnnc nnnn cccn ncnc cnnn nccc nnnc cccc
+nnnc nc ccc nnn ccc nnn ccc nnn ccc nnn ccc nnn ccc
+nnn ccc nnn ccc nnn</text>
+    </lesson>
+    <lesson>
+      <id>f8c8c5a7-e37c-460a-b4e5-be500f7237e2</id>
+      <title>53: cn</title>
+      <newCharacters/>
+      <text>cs teach nasa css anne scan sci sin in an can than
+css cccc nnnn cccc nnnn cccc nnnn cccc nnnn cccc
+nnnn cc inches nine tennis instance acc tn ce cheats
+acts a enhance catch cs teach nasa css anne scan
+sci sin in nine tennis instance acc tn ce cheats
+acts ancient cn cn cc cc cn cc cc nc nn cc cn cn nn
+cc nn nn nn nc nc nn nc ac chain inch cc assistant
+senate ct cast ne nt cent cs teac</text>
+    </lesson>
+    <lesson>
+      <id>2377206f-f018-4d86-bf96-56fc944b08a7</id>
+      <title>54: cn</title>
+      <newCharacters/>
+      <text>static scene ann instant ch inches nine tennis
+instance acc tn ce cheats acts ancient nh enhance
+catch cs teach nasa css anne scan sci sin in an can
+than then each case access since teen science san
+act ca china net tech en cases chat cash seen teens
+nice statistics sent asian inn cnet inc anti cities
+chinese assistance int sense etc ten cat na chance
+sciences ice nc</text>
+    </lesson>
+    <lesson>
+      <id>2b4a9591-a86e-454d-833f-e89ad523ecd7</id>
+      <title>55: Summary etiscn</title>
+      <newCharacters/>
+      <text>etis cnet iscn etis cnet iscn etis cnet iscn etis
+cn state then each she set states case access since
+ii int hit sense etc sets ten hits th cat na sheet
+sense se ec nt te ns sn is sn ie ce nc cc ts et ni
+si tt ii ie ct cn cat na sheet chance sciences tests
+ice nc sec sc cat sent hi asian inn cnet inc sea
+anti cities ie est iii innc ttet enci scei cnii itce
+stcn iees stcs enss nt etis cn</text>
+    </lesson>
+    <lesson>
+      <id>e9f1cc74-c8dd-4f22-8a49-685063421ffb</id>
+      <title>56: kr</title>
+      <newCharacters>kr</newCharacters>
+      <text>kkk rrr kkk rrr kkk rrr kkk rrr kkk rrr kkk rrr kkk
+rrr kr kr kr kr kr kr kr kr kr kr kr kr kr kr kr kr
+kr kr kr kr kr rrrr rkkk rkrr kkkr rkkk krrk krrr
+kkrk rkrr kkrk rk k r k r k r k r k r k r k r k r
+k r k r k r k r k r k r k r k r k r k r k r k r k
+r krk rkr krk rkr krk rkr krk rkr krk rkr krk rkr
+krk rkr kkkr krrr rkrk kkkr rkrk krkr rrkk rkrk rrkk
+rkrr rk kkk rrr kkk rrr kkk rrr kkk rrr kkk rrr kkk
+rrr kkk rrr kkk rrr</text>
+    </lesson>
+    <lesson>
+      <id>c57a2db9-c507-4fbd-916b-3804841bf5c9</id>
+      <title>57: kr</title>
+      <newCharacters/>
+      <text>eric rain stress irish ink charts transit sister c
+kkkk rrrr kkkk rrrr kkkk rrrr kkkk rrrr kkkk rrrr
+kk irish ink charts transit sister characteristics
+near screen rather certain career artist cancer t
+air cart street recent rates create star areas rss
+rr rr kk rk kr kk rk kk kk rr rr rr rk kr kk kr rr
+kr kr rk kk rain stress irish ink charts transit
+sister irish eric ra</text>
+    </lesson>
+    <lesson>
+      <id>aba034a7-91e3-4cf9-8bd8-552cbc239c01</id>
+      <title>58: kr</title>
+      <newCharacters/>
+      <text>attack centers chart shirts theatre hr criteria
+train secret theater rare rise ticket ski christ rs
+shares trees easier src eric rain stress irish ink
+charts transit sister characteristics seek kits
+tracks iran starts arkansas carrier neither checks
+stick rear tank increases sarah rice raise chicken
+sir earn tasks attacks resistance insert res char
+ski</text>
+    </lesson>
+    <lesson>
+      <id>9e1ba027-2333-49aa-b3ed-a0dc77d05bf8</id>
+      <title>59: ul</title>
+      <newCharacters>ul</newCharacters>
+      <text>uuu lll uuu lll uuu lll uuu lll uuu lll uuu lll uuu
+lll ul ul ul ul ul ul ul ul ul ul ul ul ul ul ul ul
+ul ul ul ul ul luul ulul llul lllu lulu uluu uuuu
+llul luul llul uu u l u l u l u l u l u l u l u l
+u l u l u l u l u l u l u l u l u l u l u l u l u
+l ulu lul ulu lul ulu lul ulu lul ulu lul ulu lul
+ulu lul ulul lllu uluu ulul uluu lluu lllu luul uuul
+llul ul uuu lll uuu lll uuu lll uuu lll uuu lll uuu
+lll uuu lll uuu lll</text>
+    </lesson>
+    <lesson>
+      <id>5ac223ee-adcb-4c33-a411-ac289a6caa0f</id>
+      <title>60: ul</title>
+      <newCharacters/>
+      <text>titles suite lee charles cells calls clients lack
+uuuu llll uuuu llll uuuu llll uuuu llll uuuu llll
+uu sellers client returns culture channel letter el
+lists retail rule trial units uses trust il retail
+little article learn sale sales select la article
+ll uu ll ul ll ll ul ul lu lu uu lu ul lu ll uu uu
+ul lu uu lu tue secure thu rentals cut hall tel
+classic ensure titles</text>
+    </lesson>
+    <lesson>
+      <id>aa6c9036-99b3-45db-9df5-1b764cc9a316</id>
+      <title>61: ul</title>
+      <newCharacters/>
+      <text>internal unless las le steel classes un electric
+restaurant literature scale critical australian
+clean russian titles suite lee charles cells calls
+clients listen clinical leather actual satellite
+cultural au architecture initial llc letters install
+israel italian essential latin truth eu russia
+seattle electrical laser earlier classical unless</text>
+    </lesson>
+    <lesson>
+      <id>aba1cb65-c663-4177-9222-68ad05f24918</id>
+      <title>62: od</title>
+      <newCharacters>od</newCharacters>
+      <text>ooo ddd ooo ddd ooo ddd ooo ddd ooo ddd ooo ddd ooo
+ddd od od od od od od od od od od od od od od od od
+od od od od od oodd dooo dood dodd odoo dood ddod
+oddd oood ddoo do o d o d o d o d o d o d o d o d
+o d o d o d o d o d o d o d o d o d o d o d o d o
+d odo dod odo dod odo dod odo dod odo dod odo dod
+odo dod odod oooo ddoo oddo oodd dddd dddd oodo dodo
+dood oo ooo ddd ooo ddd ooo ddd ooo ddd ooo ddd ooo
+ddd ooo ddd ooo ddd</text>
+    </lesson>
+    <lesson>
+      <id>7f2adb84-4be0-4351-89a8-811aae1763b6</id>
+      <title>63: od</title>
+      <newCharacters/>
+      <text>edited constant linked lessons treated constant oooo
+dddd oooo dddd oooo dddd oooo dddd oooo dddd oo
+needs hand cards london id child schools added lot
+dell constitutes concerns reduction nutrition t
+ontario des contacts readers lcd leaders ontario od
+do do dd dd do oo oo oo oo od dd oo od dd dd do oo
+dd od do section house related total end north
+resources c edited</text>
+    </lesson>
+    <lesson>
+      <id>5f7dbabb-f020-4623-9c4f-341a908324ef</id>
+      <title>64: od</title>
+      <newCharacters/>
+      <text>reason tool schedule deal hold sources station round
+understand connection nokia introduction carolina
+disease distance rated selected locations horse son
+considered told senior ireland door instead canadian
+cool educational resolution relations contains
+session indian ads consider northern outdoor authors
+released richard detailed ed reason</text>
+    </lesson>
+    <lesson>
+      <id>330fc3c9-7f8a-41c7-964d-60a50231dec9</id>
+      <title>65: Summary krulod</title>
+      <newCharacters/>
+      <text>krul odkr ulod krul odkr ulod krul odkr ulod krul
+od residents noted reduced rare daniel contain dual
+ds discounts sessions kernel stocks antonio und c
+rl dk ll kl ud do rd or ld ku dr uu ol ko kk ro uu
+od rr ok ul seattle turned tried electrical disc
+returned da chicken attend alan dear shell catholic
+oak shell dddu oudk ukdu lloo rruu lkdl rrlr rdro
+ukkl oklo ok krul od</text>
+    </lesson>
+    <lesson>
+      <id>59fa976d-72fb-49c8-953b-45db59fc259b</id>
+      <title>66: jm</title>
+      <newCharacters>jm</newCharacters>
+      <text>jjj mmm jjj mmm jjj mmm jjj mmm jjj mmm jjj mmm jjj
+mmm jm jm jm jm jm jm jm jm jm jm jm jm jm jm jm jm
+jm jm jm jm jm jmmj mmmm jjjm mjmm mmmm jjjm jjjm
+mjjj jjmm jjjm jm j m j m j m j m j m j m j m j m
+j m j m j m j m j m j m j m j m j m j m j m j m j
+m jmj mjm jmj mjm jmj mjm jmj mjm jmj mjm jmj mjm
+jmj mjm jjmm mjjj mmjm mjjj mjjm mjmj mmmm jjjj jmjj
+mmmm jm jjj mmm jjj mmm jjj mmm jjj mmm jjj mmm jjj
+mmm jjj mmm jjj mmm</text>
+    </lesson>
+    <lesson>
+      <id>54ee237a-745a-48ec-afa9-3091c5115902</id>
+      <title>67: jm</title>
+      <newCharacters/>
+      <text>named mouse criminal dream nj em maintain tourism
+jjjj mmmm jjjj mmmm jjjj mmmm jjjj mmmm jjjj mmmm
+jj atom estimated miscellaneous massachusetts mom
+tm retirement commitment jean mouth meter assume
+item must comments made terms much same american h
+jm jm jj jm jm mm jj mj jm jm jj jm jj mj mj mm mm
+mm jm jm jm molecular mention amended cinema humor
+monitors named m</text>
+    </lesson>
+    <lesson>
+      <id>27a7844d-e264-4f21-a35f-bab56a0f3581</id>
+      <title>68: jm</title>
+      <newCharacters/>
+      <text>mail item must comments made terms much same american
+him media small times john main customer man room
+join men team june market model human march medical
+come comment america month major committee similar
+million term journal entertainment months common
+limited means mar statement miles document material
+minutes mark meet economic amount jul medical</text>
+    </lesson>
+    <lesson>
+      <id>50c9d9b8-9e16-4500-84a4-5fe83213f00c</id>
+      <title>69: yw</title>
+      <newCharacters>yw</newCharacters>
+      <text>yyy www yyy www yyy www yyy www yyy www yyy www yyy
+www yw yw yw yw yw yw yw yw yw yw yw yw yw yw yw yw
+yw yw yw yw yw wyww ywyw wwyy wyyy ywyy wywy wwww
+ywwy wwwy yyyy yw y w y w y w y w y w y w y w y w
+y w y w y w y w y w y w y w y w y w y w y w y w y
+w ywy wyw ywy wyw ywy wyw ywy wyw ywy wyw ywy wyw
+ywy wyw ywyy wyyw yywy ywww yyww wywy wwwy wyyy wwyy
+wyyw ww yyy www yyy www yyy www yyy www yyy www yyy
+www yyy www yyy www</text>
+    </lesson>
+    <lesson>
+      <id>6f2407c5-669e-490f-9c89-fa89c6c03a25</id>
+      <title>70: yw</title>
+      <newCharacters/>
+      <text>winner truly taiwan swiss salary twenty newly wow
+yyyy wwww yyyy wwww yyyy wwww yyyy wwww yyyy wwww
+yy jersey saw unknown worth eyes workers watches
+saw nw tower yours shower awareness northwest shower
+down systems download without law water history d
+ww yw yy yw yw yy ww ww yy yw yw yy ww ww yy wy yw
+yy ww yw wy tomorrow downtown nw tower yours shower
+tomorrow winner</text>
+    </lesson>
+    <lesson>
+      <id>252d6302-4423-43ec-89f1-b057c937e3f0</id>
+      <title>71: yw</title>
+      <newCharacters/>
+      <text>wear wales row cycle accuracy lady crystal writer
+academy dynamic secondary henry whom majority utility
+turkey wars hey disney sky certainly toy layer slow
+kentucky mostly taylor identity lawyers sydney yeah
+aware wilson wheel width array raw newest sweden
+knows totally chemistry tony anyway anywhere wet
+edward elementary keys holy styles comedy wear</text>
+    </lesson>
+    <lesson>
+      <id>323d4216-32ea-405f-883b-650f3010bf56</id>
+      <title>72: xf</title>
+      <newCharacters>xf</newCharacters>
+      <text>xxx fff xxx fff xxx fff xxx fff xxx fff xxx fff xxx
+fff xf xf xf xf xf xf xf xf xf xf xf xf xf xf xf xf
+xf xf xf xf xf xfxf xfxx fxfx xfxx xxff xfff xfff
+xxfx xfff ffxx fx x f x f x f x f x f x f x f x f
+x f x f x f x f x f x f x f x f x f x f x f x f x
+f xfx fxf xfx fxf xfx fxf xfx fxf xfx fxf xfx fxf
+xfx fxf fxfx xfff fxff xfff xxff ffxx xxxx xfxf xxxx
+fxff xf xxx fff xxx fff xxx fff xxx fff xxx fff xxx
+fff xxx fff xxx fff</text>
+    </lesson>
+    <lesson>
+      <id>cac6f911-2d94-4162-8905-b7e94f5ab8a0</id>
+      <title>73: xf</title>
+      <newCharacters/>
+      <text>notification formats folder alexander exists of xxxx
+ffff xxxx ffff xxxx ffff xxxx ffff xxxx ffff xx full
+life off office forum family index file found frank
+forced filed offices failed fr font fail fly excellent
+extra interface maximum forward extra xx xx ff fx
+ff xx ff ff xf xf xx fx xx ff xx xf ff xx ff ff xx
+excellent extra interface maximum forward extra
+notifi</text>
+    </lesson>
+    <lesson>
+      <id>169d8ca5-2468-4999-99a4-e97e10d014da</id>
+      <title>74: xf</title>
+      <newCharacters/>
+      <text>indexed formed sf notification formats folder
+alexander exists conferences afternoon exam definitions
+deluxe successfully welfare alex formation of for
+from if free information first find next after
+software info full life off office forum family
+index file found text form food different left
+features forums friend staff financial tax offers
+field f</text>
+    </lesson>
+    <lesson>
+      <id>4accac8c-3cf9-4ce5-86b2-3a542b9c0d18</id>
+      <title>75: Summary jmywxf</title>
+      <newCharacters/>
+      <text>jmyw xfjm ywxf jmyw xfjm ywxf jmyw xfjm ywxf jmyw
+xf exactly dry maryland nearly reality knew feeds
+fr sf dreams notification hairy seminar wheels exam
+wj xm mm yy xm ff ww xj yj jx mx ww fm wf wf jj yj
+yx xy mf fy mouse criminal sexual wisconsin dream
+false felt william award assessment wall extra
+interface ma mffw jyww fjfx ymyj fwyx xmmj yxjm fxmy
+wymw fjxw jx jmyw xf</text>
+    </lesson>
+    <lesson>
+      <id>614a358a-edfa-472b-9a99-66ee6eaa7efb</id>
+      <title>76: bv</title>
+      <newCharacters>bv</newCharacters>
+      <text>bbb vvv bbb vvv bbb vvv bbb vvv bbb vvv bbb vvv bbb
+vvv bv bv bv bv bv bv bv bv bv bv bv bv bv bv bv bv
+bv bv bv bv bv bvvb bbbb vvbb bbbb bbvb bvvb vvvv
+vbbv bvvv vbvv vv b v b v b v b v b v b v b v b v
+b v b v b v b v b v b v b v b v b v b v b v b v b
+v bvb vbv bvb vbv bvb vbv bvb vbv bvb vbv bvb vbv
+bvb vbv bvvb bbvb vvbv vbvv bbvv bvvv bbvb bbbv vvbv
+bvvb bb bbb vvv bbb vvv bbb vvv bbb vvv bbb vvv bbb
+vvv bbb vvv bbb vvv</text>
+    </lesson>
+    <lesson>
+      <id>9ea7030a-d36f-45d9-83ee-c5e4b787f12e</id>
+      <title>77: bv</title>
+      <newCharacters/>
+      <text>moved viewed lab reserve cvs native movement boat
+bbbb vvvv bbbb vvvv bbbb vvvv bbbb vvvv bbbb vvvv
+bb beer contribution reliable doubt unable visitor
+denver bond blues cables bluetooth border debate
+browser voice bed everyone brown survey evidence bb
+bv bv vv vv vb bb bb vv bb vv vb bb vb vb vb bb vb
+vv vv vb beer contribution reliable doubt unable
+visitor moved v</text>
+    </lesson>
+    <lesson>
+      <id>3cfd073b-7754-4a62-a4cf-15e65e6faa08</id>
+      <title>78: bv</title>
+      <newCharacters/>
+      <text>advisory investor wave symbol buddy hardcover observed
+celebrity denver bond blues cables bluetooth border
+debate notebook husband disabled britain bears visa
+interviews deliver discovery leaves inventory
+converter babe objective enabled volunteer bound
+contribute bowl brothers submission navy contributions
+db initiative novel disability db</text>
+    </lesson>
+    <lesson>
+      <id>c313c6bc-8cfb-424e-a306-f9f2bb089006</id>
+      <title>79: gp</title>
+      <newCharacters>gp</newCharacters>
+      <text>ggg ppp ggg ppp ggg ppp ggg ppp ggg ppp ggg ppp ggg
+ppp gp gp gp gp gp gp gp gp gp gp gp gp gp gp gp gp
+gp gp gp gp gp gppp pgpp gggp pgpp pggp gpgg gpgp
+gggg pppg pgpg gp g p g p g p g p g p g p g p g p
+g p g p g p g p g p g p g p g p g p g p g p g p g
+p gpg pgp gpg pgp gpg pgp gpg pgp gpg pgp gpg pgp
+gpg pgp pgpp pggg pppg pggg pggp ggpg gppp ggpp pggp
+pggp pg ggg ppp ggg ppp ggg ppp ggg ppp ggg ppp ggg
+ppp ggg ppp ggg ppp</text>
+    </lesson>
+    <lesson>
+      <id>530d24fc-cf08-466c-9162-913b698d07cb</id>
+      <title>80: gp</title>
+      <newCharacters/>
+      <text>guinea findings featuring implement clicking ps gggg
+pppp gggg pppp gggg pppp gggg pppp gggg pppp gg
+generate newspapers hospitals aged exception pg
+simple paul published corporate google purchase
+patrick experimental puerto displays plasma fig gg
+pp pg pg gp pg pp pp pg gp gp gp pp pp gg gg gg gp
+pg gg pg hearing therapy generated signed upper
+prime pic guinea</text>
+    </lesson>
+    <lesson>
+      <id>15b5a742-5f45-4a6e-ac11-0377dd8e8f8b</id>
+      <title>81: gp</title>
+      <newCharacters/>
+      <text>regulations species jump pricing trading coverage
+couple giving ending accept goal highly publishing
+appear emergency developing temperature palm patient
+ringtones perhaps persons village pain particularly
+settings poster edge pink monitoring graduate replies
+thinking league provider optional accounting
+manufacturing fishing phase bag po po</text>
+    </lesson>
+    <lesson>
+      <id>ca7f5646-f1e9-4cc8-8944-3db11ceed8bc</id>
+      <title>82: z</title>
+      <newCharacters>z</newCharacters>
+      <text>zzz zzz zzz zzz zzz zzz zzz zzz zzz zzz zzz zzz zzz
+zzz zz zz zz zz zz zz zz zz zz zz zz zz zz zz zz zz
+zz zz zz zz zz zzzz zzzz zzzz zzzz zzzz zzzz zzzz
+zzzz zzzz zzzz zz z z z z z z z z z z z z z z z z
+z z z z z z z z z z z z z z z z z z z z z z z z z
+z zzz zzz zzz zzz zzz zzz zzz zzz zzz zzz zzz zzz
+zzz zzz zzzz zzzz zzzz zzzz zzzz zzzz zzzz zzzz zzzz
+zzzz zz zzz zzz zzz zzz zzz zzz zzz zzz zzz zzz zzz
+zzz zzz zzz zzz zzz</text>
+    </lesson>
+    <lesson>
+      <id>7b96fd8c-a169-4c16-be3c-9cf5193e59d3</id>
+      <title>83: z</title>
+      <newCharacters/>
+      <text>amazon organizations az zone magazines zealand a
+zzzz zzzz zzzz zzzz zzzz zzzz zzzz zzzz zzzz zzzz
+zz verzeichnis sizes authorized crazy switzerland
+zum elizabeth citizens verzeichnis sizes amazon
+elizabeth citizens verzeichnis sizes elizabeth zz
+zz zz zz zz zz zz zz zz zz zz zz zz zz zz zz zz zz
+zz zz zz sizes authorized crazy switzerland czech
+amazon amazon</text>
+    </lesson>
+    <lesson>
+      <id>3913f5b5-b0e8-4ba7-97e5-303497238084</id>
+      <title>84: z</title>
+      <newCharacters/>
+      <text>zum elizabeth citizens verzeichnis sizes authorized
+crazy switzerland czech recognized organized size
+magazine organization zip amazon organizations az
+zone magazines zealand arizona zoom zero jazz oz
+brazil amazing zum elizabeth citizens verzeichnis
+sizes authorized crazy switzerland czech recognized
+organized size magazine organization az</text>
+    </lesson>
+    <lesson>
+      <id>18dfb2c3-3fb4-4198-bc4b-c082db378887</id>
+      <title>85: Summary bvgpz</title>
+      <newCharacters/>
+      <text>bvgp zbvg pzbv gpzb vgpz bvgp zbvg pzbv gpzb vgpz
+bv apartment height zero speaker gb obtain bc height
+employed bright poverty piano grid patrick piano gv
+vv zz zg bz vz pb pg bb vv pg gz bv bg gb pb zp zb
+pp vp gv block subjects agents repair civil relationship
+testing charge enterprise ships leading testing vbzp
+zggb bbgb zpgv zbpv zbvz vppv zgpg pvbg bpvv gz bvgp
+zb</text>
+    </lesson>
+    <lesson>
+      <id>488e5288-faaf-4142-b054-b2da35dcb978</id>
+      <title>86: q</title>
+      <newCharacters>q</newCharacters>
+      <text>qqq qqq qqq qqq qqq qqq qqq qqq qqq qqq qqq qqq qqq
+qqq qq qq qq qq qq qq qq qq qq qq qq qq qq qq qq qq
+qq qq qq qq qq qqqq qqqq qqqq qqqq qqqq qqqq qqqq
+qqqq qqqq qqqq qq q q q q q q q q q q q q q q q q
+q q q q q q q q q q q q q q q q q q q q q q q q q
+q qqq qqq qqq qqq qqq qqq qqq qqq qqq qqq qqq qqq
+qqq qqq qqqq qqqq qqqq qqqq qqqq qqqq qqqq qqqq qqqq
+qqqq qq qqq qqq qqq qqq qqq qqq qqq qqq qqq qqq qqq
+qqq qqq qqq qqq qqq</text>
+    </lesson>
+    <lesson>
+      <id>e7c35b5b-cd25-4e4d-a8fe-6e533f1885ef</id>
+      <title>87: q</title>
+      <newCharacters/>
+      <text>equity frequency faqs sql requested equivalent r
+qqqq qqqq qqqq qqqq qqqq qqqq qqqq qqqq qqqq qqqq
+qq equipment quote question request faq techniques
+quick unique quite require iraq requires quotes s
+faqs sql requested equivalent requirement mysql qq
+qq qq qq qq qq qq qq qq qq qq qq qq qq qq qq qq qq
+qq qq qq question request faq requirements quick
+unique q equity</text>
+    </lesson>
+    <lesson>
+      <id>7aa51abe-2e63-42bf-9feb-c8410a73380c</id>
+      <title>88: q</title>
+      <newCharacters/>
+      <text>acquisition technique qty antique antiques quality
+required questions equipment quote question request
+faq requirements quick unique quite require iraq
+requires quotes square techniques quickly quantity
+requests quarter sequence equal queen frequently
+query equity frequency faqs sql requested equivalent
+requirement qualified mysql liquid qu</text>
+    </lesson>
+  </lessons>
+</course>
